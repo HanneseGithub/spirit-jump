@@ -10,6 +10,9 @@ Team:
 Demo:
 https://www.youtube.com/watch?v=Vs0poJir85s&feature=youtu.be&ab_channel=IndrekR%C3%BCnkaru
 
+APK:
+https://drive.google.com/drive/folders/1tYY_th9bBcaxQjgjBcY_rk-I5fnzbhUs
+
 Music used in the game:
 * https://opengameart.org/content/corn-stalka
 * https://opengameart.org/content/rule-of-three
