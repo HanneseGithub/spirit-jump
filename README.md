@@ -1,4 +1,4 @@
-# spiritjumpescape
+# Spirit Jump - Escape
 
 A small platform jumper game called “Spirit Jump - Escape” made with Unity for Android phones. The goal of the game is to reach as far as possible from hell. This was our first Unity project and it will only be used for our own amusement.
 
