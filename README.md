@@ -2,6 +2,8 @@
 
 A small platform jumper game called “Spirit Jump - Escape” made with Unity for Android phones. The goal of the game is to reach as far as possible from hell. This was our first Unity project and it will only be used for our own amusement.
 
+PS! The movement of the player in the game happens by tilting the mobile left or right.
+
 Team:
 * Maarja Täpsi
 * Hannes Juurma
